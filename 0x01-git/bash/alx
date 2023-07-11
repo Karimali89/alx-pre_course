@@ -1,2 +1,2 @@
 #!/bin/bash
-HEAD echo "ALX School is cool!"echo "ALX school"update_script
+echo "ALX School is cool!"echo "ALX school"update_script
